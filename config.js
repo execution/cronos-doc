@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/cronos-doc',
+    siteUrl: 'https://pommatt.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
